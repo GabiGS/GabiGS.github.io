@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="css/contact.css">
+    <script src="js/validate.js"></script>
+</head>
+<body>
+    <div class="container">
+
+      <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+   Name: <input type="text" name="fname">
+
+   Last Name: <input type="text" name="lname">
+
+   Mail: <input type="text" name="lmail">
+
+   Phone: <input type="text" name="pn">
+    
+        <input type="submit" value="Submit">
+   
+      </form>
+      
+        <!-- Contact information -->
+        <div class="rt">
+          <h2>Contact Us</h2>
+          <ul class="contact-list">
+            <li class="list-item">
+              <i class="fa fa-map-marker fa-1x">
+                <span class="contact-text place">
+              Roble, Alajuela
+                </span>
+             </i>
+            </li>
+ 
+            <li class="list-item">
+              <i class="fa fa-envelope fa-1x">
+                <span class="contact-text gmail">
+                  <a href="mailto:yourmail@gmail.com" title="Send me an email">
+                    gabi.gseravalli@gmail.com</a>
+                </span>
+              </i>
+            </li>
+ 
+            <li itemscope="" itemtype="http://kasu.org/LocalBusiness">
+              <span itemprop="telephone"><a href="tel:+50683227619">Phone</a></span>
+              <span itemprop="name" style="visibility: hidden;">Corporation</span>
+            </li>			
+    
+          </ul>
+        </div>
+      </div>
+    
+    
+</body>
+</html>

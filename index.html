@@ -4,25 +4,88 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xmen</title>
+    <title>Productos</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <style>
+        @import url(css/index.css);
+    </style>
+    <script src="js/index.js"></script>
 
-    <link rel="stylesheet" href="css/main.css" />
 </head>
 <body>
-    <header>
-        <h1>Xmen</h1>
-    </header>
-    <main>
-        <section>
-            <p>Son un equipo de superhéroes ficticios que aparecen en los cómics estadounidenses publicados por Marvel Comics.
-            </p>
-        </section>
-        <ul>
-            <li><a href="historia.html">Historia</a></li>
-            <li><a href="series.html">Series</a></li>
-            <li><a href="peliculas.html">Películas</a></li>
-            <li><a href="personajes.html">Personajes</a></li>
-        </ul>
+
+    <div class="header-info">
+        <div class="info">
+            <h1>KaSu Store</h1>
+
+            
+    </div>
+    
+    </div>
+
+    <!-- The navigation menu -->
+<div class="navbar">
+    
+    <a href="#home.html">Home</a>
+    <div class="subnav">
+      <button class="subnavbtn">Woman <i class="fa fa-caret-down"></i></button>
+      <div class="subnav-content">
+        <a href="#Accesories">Accesories</a>
+        <a href="#Clothing">Clothing</a>
+        <a href="#Footwear">Footwear</a>
+      </div>
+    </div>
+    <div class="subnav">
+        <button class="subnavbtn">Men <i class="fa fa-caret-down"></i></button>
+        <div class="subnav-content">
+          <a href="#Accesories">Accesories</a>
+          <a href="#Clothing">Clothing</a>
+          <a href="#Footwear">Footwear</a>
+      </div>
+    </div>
+    <div class="subnav">
+        <button class="subnavbtn">Kids <i class="fa fa-caret-down"></i></button>
+        <div class="subnav-content">
+          <a href="#Accesories">Accesories</a>
+          <a href="clothing.html">Clothing</a>
+          <a href="#Footwear">Footwear</a>
+      </div>
+    </div>
+
+  <div class="subnav">
+    <button class="subnavbtn">New Arrivales <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#Accesories">Accesories</a>
+      <a href="#Clothing">Clothing</a>
+      <a href="#Footwear">Footwear</a>
+  </div>
+</div>
+<a href="contact.html">Contact</a>
+
+</div>
+
+</div>
+<h2>Deals of the day:</h2>
+
+<p><s>Only 2 products left!</s></p>
+<a href="productDetail.html">A/OK Tight Tank Dress New</a>
+<img src="img/dress.jpg"  width="100" height="200">
+</div>
+
+<main>
+  <form id="fFilter" style="display: flex; flex-direction: column; gap: 10px;"
+  > 
+      <input id="iFilter"
+      type="search" placeholder="Search ..." 
+      required/>
+      <span message="Se requiere filtro"></span>
+      <hr>
+     <ul id="results"></ul>
+  </form>
+ 
 </main>
+
+
 </body>
 </html>

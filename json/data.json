@@ -1,0 +1,260 @@
+{
+  "products":[
+	{
+		"id": 1, 
+    "sku": "vs-52972", 
+    "category": "APPAREL", 
+    "unitPrice": 14.0, 
+    "Attributes": "Size (US):M", 
+    "description": "ATHLETA GIRL Girl's Make Waves Reversible Bikini Top New", 
+    "productName": "Girl's Make Waves Reversible Bikini Top", 
+    "retailPrice": 28.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 2, 
+    "sku": "vs-53060", 
+    "category": "APPAREL", 
+    "unitPrice": 29.989999771118164, 
+    "Attributes": "Size (US):M", 
+    "description": "A/OK Tight Tank Dress New", 
+    "productName": "A/OK 12640 Tight Tank Dress", 
+    "retailPrice": 72.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+
+	
+	},
+	{
+		"id": 3, 
+    "sku": "vs-53060", 
+    "category": "APPAREL", 
+    "unitPrice": 29.989999771118164, 
+    "Attributes": "Size (US):M", 
+    "description": "A/OK Tight Tank Dress New", 
+    "productName": "A/OK 12640 Tight Tank Dress", 
+    "retailPrice": 72.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 4, 
+		"sku": "vs-53060", 
+		"category": "APPAREL", 
+		"unitPrice": 29.989999771118164, 
+		"Attributes": "Size (US):M", 
+		"description": "A/OK Tight Tank Dress New", 
+		"productName": "A/OK 12640 Tight Tank Dress", 
+		"retailPrice": 72.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 5, "sku": "vs-53060", "category": "APPAREL", "unitPrice": 29.989999771118164, "Attributes": "Size (US):M", "description": "A/OK Tight Tank Dress New", "productName": "A/OK 12640 Tight Tank Dress", "retailPrice": 72.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 6, "sku": "vs-53060", "category": "APPAREL", "unitPrice": 29.989999771118164, "Attributes": "Size (US):M", "description": "A/OK Tight Tank Dress New", "productName": "A/OK 12640 Tight Tank Dress", "retailPrice": 72.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 7, "sku": "vs-53060", "category": "APPAREL", "unitPrice": 29.989999771118164, "Attributes": "Size (US):M", "description": "A/OK Tight Tank Dress New", "productName": "A/OK 12640 Tight Tank Dress", "retailPrice": 72.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 8, 
+		"sku": "53079", 
+		"category": 
+		"MEN", 
+		"unitPrice": 7.989999771118164, 
+		"Attributes": "Size (US):S", 
+		"description": "VANS Extended Rose 2 Tee New", 
+		"productName": "Extended Rose 2 Tee", 
+		"retailPrice": 22.0, 
+		"photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 9, "sku": "53080", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):L", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 10, "sku": "53080", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):L", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 11, "sku": "53080", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):L", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 12, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 13, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 14, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 15, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 16, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 17, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 18, "sku": "53081", "category": "MEN", "unitPrice": 7.989999771118164, "Attributes": "Size (US):XL", "description": "VANS Extended Rose 2 Tee New", "productName": "Extended Rose 2 Tee", "retailPrice": 22.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 19, "sku": "vs-53246", "category": "APPAREL", "unitPrice": 31.989999771118164, "Attributes": "Size (US):S", "description": "CHAMPION BRAND Men's Reverse Weave Colorblock Track Jacket New", "productName": "CHAMPION BRAND 549948 Men's Reverse Weave Colorblock Track Jacket", "retailPrice": 80.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 20, "sku": "vs-53246", "category": "APPAREL", "unitPrice": 31.989999771118164, "Attributes": "Size (US):S", "description": "CHAMPION BRAND Men's Reverse Weave Colorblock Track Jacket New", "productName": "CHAMPION BRAND 549948 Men's Reverse Weave Colorblock Track Jacket", "retailPrice": 80.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 21, "sku": "vs-53457", "category": "MEN", "unitPrice": 11.989999771118164, "Attributes": "Size (US):3X", "description": "MOTHERHOOD MATERNITY Flutter Cap Sleeve Linen-Blend Maternity Top New", "productName": "MOTHERHOOD MATERNITY 95516-12 Linen Top", "retailPrice": 39.97999954223633, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 22, "sku": "vs-54075", "category": "APPAREL", "unitPrice": 7.989999771118164, "Attributes": "Size (US):M", "description": "DALLAS COWBOYS AUTHENTIC Men's Short Sleeve Elliott T-Shirt New", "productName": "DALLAS COWBOYS AUTHENTIC 160210486 NFL Licensed Short Sleeve Tee Dallas Cowboy Tee", "retailPrice": 19.989999771118164, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 23, "sku": "vs-54075", "category": "APPAREL", "unitPrice": 7.989999771118164, "Attributes": "Size (US):M", "description": "DALLAS COWBOYS AUTHENTIC Men's Short Sleeve Elliott T-Shirt New", "productName": "DALLAS COWBOYS AUTHENTIC 160210486 NFL Licensed Short Sleeve Tee Dallas Cowboy Tee", "retailPrice": 19.989999771118164, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 24, "sku": "vs-54075", "category": "APPAREL", "unitPrice": 7.989999771118164, "Attributes": "Size (US):M", "description": "DALLAS COWBOYS AUTHENTIC Men's Short Sleeve Elliott T-Shirt New", "productName": "DALLAS COWBOYS AUTHENTIC 160210486 NFL Licensed Short Sleeve Tee Dallas Cowboy Tee", "retailPrice": 19.989999771118164, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 25, "sku": "vs-54075", "category": "APPAREL", "unitPrice": 7.989999771118164, "Attributes": "Size (US):M", "description": "DALLAS COWBOYS AUTHENTIC Men's Short Sleeve Elliott T-Shirt New", "productName": "DALLAS COWBOYS AUTHENTIC 160210486 NFL Licensed Short Sleeve Tee Dallas Cowboy Tee", "retailPrice": 19.989999771118164, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 26, "sku": "vs-54865", "category": "APPAREL", "unitPrice": 34.9900016784668, "Attributes": "Size (US):L", "description": "ATHLETA Women's Bounce Back Fleece Jogger Pant New", "productName": "ATHLETA 487575 Bounce Back Jogger", "retailPrice": 89.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 27, "sku": "vs-54865", "category": "APPAREL", "unitPrice": 34.9900016784668, "Attributes": "Size (US):L", "description": "ATHLETA Women's Bounce Back Fleece Jogger Pant New", "productName": "ATHLETA 487575 Bounce Back Jogger", "retailPrice": 89.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 28, "sku": "vs-54865", "category": "APPAREL", "unitPrice": 34.9900016784668, "Attributes": "Size (US):L", "description": "ATHLETA Women's Bounce Back Fleece Jogger Pant New", "productName": "ATHLETA 487575 Bounce Back Jogger", "retailPrice": 89.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 29, "sku": "vs-54865", "category": "APPAREL", "unitPrice": 34.9900016784668, "Attributes": "Size (US):L", "description": "ATHLETA Women's Bounce Back Fleece Jogger Pant New", "productName": "ATHLETA 487575 Bounce Back Jogger", "retailPrice": 89.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 30, "sku": "vs-56710", "category": "APPAREL", "unitPrice": 12.989999771118164, "Attributes": "Size (US):M", "description": "ANN TAYLOR Long Sleeve Wrap Top New", "productName": "ANN TAYLOR", "retailPrice": 49.5, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 31, "sku": "vs-56710", "category": "APPAREL", "unitPrice": 12.989999771118164, "Attributes": "Size (US):M", "description": "ANN TAYLOR Long Sleeve Wrap Top New", "productName": "ANN TAYLOR", "retailPrice": 49.5, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+
+	{
+		"id": 38, "sku": "vs-58812", "category": "APPAREL", "unitPrice": 11.989999771118164, "Attributes": "Size (US):S", "description": "LUCKY BRAND Women's Border Printed Pasiley Henley New", "productName": "LUCKY BRAND 7WD61309 Border Printed Henley", "retailPrice": 49.5, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 39, "sku": "vs-58813", "category": "APPAREL", "unitPrice": 11.989999771118164, "Attributes": "Size (US):L", "description": "LUCKY BRAND Women's Border Printed Pasiley Henley New", "productName": "LUCKY BRAND 7WD61309 Border Printed Henley", "retailPrice": 49.5, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 40, "sku": "vs-61053", "category": "APPAREL", "unitPrice": 29.989999771118164, "Attributes": "Size (US):S", "description": "FRAICHE BY J Nora Print Woven Dress New", "productName": "FRAICHE BY J FD Nora Print Woven Dress", "retailPrice": 119.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 41, "sku": "vs-61314", "category": "APPAREL", "unitPrice": 47.9900016784668, "Attributes": "Size (US):S", "description": "LULALIFE Pacific Dress New", "productName": "LULALIFE Pacific Dress", "retailPrice": 139.9499969482422, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 42, "sku": "vs-64952", "category": "APPAREL", "unitPrice": 89.98999786376953, "Attributes": "Size (US):M", "description": "VERTIGO Vertigo - Leopard Print T Shirt New", "productName": "Vertigo - Leopard Print T Shirt", "retailPrice": 230.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 43, "sku": "vs-64999", "category": "APPAREL", "unitPrice": 29.989999771118164, "Attributes": "Size (US):L", "description": "COACH Coach - Logo T-shirt New", "productName": "Coach - Logo T-shirt", "retailPrice": 128.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 44, "sku": "vs-65005", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):OneSize", "description": "KACHEL + ANTHROPOLOGIE Kachel + Anthropologie - Blue Pattern Cardigan  New", "productName": "Kachel + Anthropologie - Blue Pattern Cardigan ", "retailPrice": 118.0
+	},
+	{
+		"id": 45, "sku": "vs-65009", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):XXL", "description": "FRANKIES BIKINIS Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 46, "sku": "vs-65009", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):XXL", "description": "FRANKIES BIKINIS Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 47, "sku": "vs-65009", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):XXL", "description": "FRANKIES BIKINIS Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 48, "sku": "vs-65009", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):XXL", "description": "FRANKIES BIKINIS Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 49, "sku": "vs-65011", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):M", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 50, "sku": "vs-65011", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):M", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 51, "sku": "vs-65011", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):M", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 52, "sku": "vs-65012", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):XS", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt New", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 53, "sku": "vs-65013", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):S", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt Damaged", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 54, "sku": "vs-65013", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):S", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt Damaged", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 55, "sku": "vs-65013", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):S", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt Damaged", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 56, "sku": "vs-65013", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):S", "description": "FRANKIES BIKINIS Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt Damaged", "productName": "Frankies Bikinis - Blue Cropped Tie-dyed Burl Sweatshirt", "retailPrice": 125.0
+	},
+	{
+		"id": 57, "sku": "vs-65015", "category": "APPAREL", "unitPrice": 39.9900016784668, "Attributes": "Size (US):L", "description": "FREE PEOPLE Free People - Swingin' It Hoodie New", "productName": "Free People - Swingin' It Hoodie", "retailPrice": 118.0
+	},
+	{
+		"id": 58, "sku": "vs-65017", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):M", "description": "CARMAR Carmar - Women's Spiral Tie Dye Zip Up Sweatshirt New", "productName": "Carmar - Women's Spiral Tie Dye Zip Up Sweatshirt", "retailPrice": 156.0
+	},
+	{
+		"id": 59, "sku": "vs-65019", "category": "APPAREL", "unitPrice": 99.98999786376953, "Attributes": "Size (US):M", "description": "DRESS THE POPULATION Dress The Population Women's Emery Long Sleeve Stretch Sequin Midi Sheath New", "productName": "Dress The Population Women's Emery Long Sleeve Stretch Sequin Midi Sheath", "retailPrice": 248.0
+	},
+	{
+		"id": 60, "sku": "vs-65031", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):M", "description": "SCOTCH&SODA Scotch & Soda - Stripe Wrap Top In Combo New", "productName": "Scotch & Soda - Stripe Wrap Top ", "retailPrice": 135.0
+	},
+	{
+		"id": 61, "sku": "vs-65032", "category": "APPAREL", "unitPrice": 44.9900016784668, "Attributes": "Size (US):L", "description": "SCOTCH&SODA Scotch & Soda - Stripe Wrap Top In Combo New", "productName": "Scotch & Soda - Stripe Wrap Top ", "retailPrice": 135.0
+	},
+	{
+		"id": 62, "sku": "vs-65035", "category": "APPAREL", "unitPrice": 139.99000549316406, "Attributes": "Size (US):S", "description": "SCOTCH&SODA Scotch & Soda - Mixed Parka New", "productName": "Scotch & Soda - Mixed Parka", "retailPrice": 345.0
+	},
+	{
+		"id": 63, "sku": "vs-65036", "category": "APPAREL", "unitPrice": 139.99000549316406, "Attributes": "Size (US):XS", "description": "SCOTCH&SODA Scotch & Soda - Mixed Parka New", "productName": "Scotch & Soda - Mixed Parka", "retailPrice": 345.0
+	},
+	{
+		"id": 64, "sku": "vs-65037", "category": "APPAREL", "unitPrice": 24.989999771118164, "Attributes": "Size (US):L", "description": "MAISON JULES Maison Jules - Flutter-sleeve Belted Dress New", "productName": "Maison Jules - Flutter-sleeve Belted Dress", "retailPrice": 53.70000076293945
+	},
+	{
+		"id": 65, "sku": "vs-65047", "category": "APPAREL", "unitPrice": 149.99000549316406, "Attributes": "Size (US):L", "description": "ANINE BING Anine Bing - Maeve Jacket New", "productName": "Anine Bing - Maeve Jacket", "retailPrice": 399.0
+	},
+	{
+		"id": 66, "sku": "vs-65049", "category": "APPAREL", "unitPrice": 239.99000549316406, "Attributes": "Size (US):L", "description": "ANINE BING Anine Bing - Sasha Faux Fur Coat New", "productName": "Anine Bing - Sasha Faux Fur Coat", "retailPrice": 599.0
+	},
+	{
+		"id": 67, "sku": "vs-65050", "category": "APPAREL", "unitPrice": 329.989990234375, "Attributes": "Size (US):L", "description": "ANINE BING Anine Bing - Ruth Double- Breasted Coat New", "productName": "Anine Bing - Ruth Double- Breasted Coat", "retailPrice": 799.0
+	},
+	{
+		"id": 68, "sku": "vs-65735", "category": "APPAREL", "unitPrice": 39.9900016784668, "Attributes": "Size (US):L", "description": "CANADA GOOSE Men's Northern Glove Liner New", "productName": "Canada Goose - Men's Northern Glove Liner", "retailPrice": 125.0
+	},
+	{
+		"id": 69, "sku": "vs-67087", "category": "APPAREL", "unitPrice": 229.0, "Attributes": "Size (US):S", "description": "TORY  BURCH  New", "productName": "Tory Burch Floral Print Dress - Women's", "retailPrice": 458.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 70, "sku": "vs-69196", "category": "APPAREL", "unitPrice": 74.5, "Attributes": "Size (US):XL", "description": "EXCELLED Nwt Excelled Reversible Red Leather Jacket New", "productName": "EXCELLED Reversible Red Leather Jacket", "retailPrice": 149.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 71, "sku": "vs-69197", "category": "APPAREL", "unitPrice": 99.98999786376953, "Attributes": "Size (US):L", "description": "NFL Team Apparel Nwt Nfl Team Apparel San Francisco 49ers Leather Jacket New", "productName": "NFL TEAM APPAREL San Francisco 49ers Leather Jacket", "retailPrice": 249.99000549316406
+	},
+	{
+		"id": 72, "sku": "vs-69205", "category": "APPAREL", "unitPrice": 125.0, "Attributes": "Size (US):S", "description": "FLYLOW Nwt Flylow General's Down Hoody New", "productName": "FLYLOW General's Down Hoody", "retailPrice": 250.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 73, "sku": "vs-71381", "category": "APPAREL", "unitPrice": 199.99000549316406, "Attributes": "Size (US):M", "description": "DSQUARED2 Women's Cardigan New", "productName": "DSQUARED2 Plaid Angora Cardigan Sweater", "retailPrice": 650.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 74, "sku": "vs-71510", "category": "APPAREL", "unitPrice": 54.9900016784668, "Attributes": "Size (US):L", "description": "INTERMIX Ruffle Blouse New", "productName": "INTERMIX Nikki Long Sleeve Ruffle Top", "retailPrice": 225.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 75, "sku": "vs-71977", "category": "APPAREL", "unitPrice": 164.5, "Attributes": "Size (US):XL", "description": "SITKA Gore Optifade Concealment Subalpine Series Jetstream Jacket For Men New", "productName": "SITKA Gore Optifade Concealment Subalpine Series Jetstream Jacket For Men", "retailPrice": 329.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 76, "sku": "vs-71979", "category": "APPAREL", "unitPrice": 179.99000549316406, "Attributes": "Size (US):XXL", "description": "SITKA Camo Gore Optifade Waterfowl Marsh Coat New", "productName": "SITKA Gore Optifade Concealment Waterfowl Marsh Duck Oven Jacket For Men - Gore Optifade Waterfowl Marsh", "retailPrice": 329.989990234375, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 77, "sku": "vs-71980", "category": "APPAREL", "unitPrice": 85.0, "Attributes": "Size (US):L", "description": "EXPRESS (minus The) Leather Coat With Removable Hoodie Lining New", "productName": "EXPRESS Advanced Leather Hoodie Jacket White 06398", "retailPrice": 228.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	},
+	{
+		"id": 78, "sku": "vs-72211", "category": "APPAREL", "unitPrice": 59.9900016784668, "Attributes": "Size (US):XXXL", "description": "LACOSTE Pique Classic Fit Polo Shirt New", "productName": "LACOSTE Pique Classic Fit Polo Shirt", "retailPrice": 95.0, "photo": "https://m.media-amazon.com/images/I/71OwvdRlw+L._AC_UX342_.jpg"
+	}
+]
+}
